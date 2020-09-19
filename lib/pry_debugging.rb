@@ -1,3 +1,3 @@
-def plus_two(num = 3)
-	puts num + 2
+def plus_two(num)
+	puts num
 end
